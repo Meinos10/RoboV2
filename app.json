@@ -1,0 +1,25 @@
+{
+	"name": "OtoRobo",
+	"env": {
+		"API_ID": {
+			"description": ""
+		},
+		"API_HASH": {
+			"description": ""
+		},
+		"TOKEN": {
+			"description": ""
+		},
+		"CHAT": {
+			"description": ""
+		},
+		"SURE": {
+			"description": ""
+		}
+	},
+	"buildpacks": [
+		{
+			"url": "heroku/python"
+		}
+	]
+}
